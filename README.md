@@ -22,5 +22,5 @@ Este repositório contém um script em Python que gera QR Codes para integraçã
 - Salvar o QR Code como imagem (`qrcode.png`).
 - (Futuro) Enviar ou exibir automaticamente o QR Code via Vmix Call.
 
-##  Estrutura de Arquivos
+
 
